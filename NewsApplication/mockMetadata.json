@@ -1,0 +1,13 @@
+[
+  {"articleId":"ART004","author":"Robert","approveCount":2},
+  {"articleId":"ART005","author":"Alice","approveCount":1},
+  {"articleId":"ART007","author":"Bob","approveCount":0},
+  {"articleId":"ART009","author":"Charlie","approveCount":3},
+  {"articleId":"ART010","author":"Charlie","approveCount":1},
+  {"articleId":"ART011","author":"David","approveCount":6},
+  {"articleId":"ART012","author":"David","approveCount":0},
+  {"articleId":"ART013","author":"Eva","approveCount":2},
+  {"articleId":"ART014","author":"Eva","approveCount":5},
+  {"articleId":"ART015","author":"Frank","approveCount":4}
+]
+
